@@ -1,0 +1,201 @@
+﻿Rank,Company,Revenue,Industry
+1,Walmart,523964,Tech
+2,Sinopec Group,407009,Tech 
+3,State Grid,383906,Oil
+4,China National Petroleum,379130,Tech 
+5,Royal Dutch Shell,352106,Tech 
+6,Saudi Aramco,329784,Tech 
+7,Volkswagen,282760,Tech 
+8,BP,282616,Pharmaceuticals
+9,Amazon.com,280522,Pharmaceuticals
+10,Toyota Motor,275288,Pharmaceuticals
+11,Exxon Mobil,264938,Pharmaceuticals
+12,Apple,260174,Tech 
+13,CVS Health,256776,Tech 
+14,Berkshire Hathaway,254616,Tech 
+15,UnitedHealth Group,242155,Tech 
+16,McKesson,231051,Tech 
+17,Glencore,215111,Pharmaceuticals
+18,China State Construction Engineering,205839,Pharmaceuticals
+19,Samsung Electronics,197705,Pharmaceuticals
+20,Daimler,193346,Pharmaceuticals
+21,Ping An Insurance,184280,Oil
+22,AT&T,181193,Oil
+23,AmerisourceBergen,179589,Professional Services
+24,Industrial & Commercial Bank of China,177069,Oil
+25,Total,176249,Oil
+26,Hon Hai Precision Industry,172869,Tech
+27,Trafigura Group,171474,Tech
+28,EXOR Group,162754,Tech
+29,Alphabet,161857,Tech
+30,China Construction Bank,158884,Pharmaceuticals
+31,Ford Motor,155900,Tech
+32,Cigna,153566,Tech
+33,Costco Wholesale,152703,Tech
+34,AXA,148984,Tech
+35,Agricultural Bank of China,147313,Oil
+36,Chevron,146516,Pharmaceuticals
+37,Cardinal Health,145534,Oil
+38,JPMorgan Chase,142422,Oil
+39,Honda Motor,137332,Oil
+40,General Motors,137237,Oil
+41,Walgreens Boots Alliance,136866,Tech
+42,Mitsubishi,135940,Tech
+43,Bank of China,135091,Tech
+44,Verizon Communications,131868,Tech
+45,China Life Insurance,131244,Tech
+46,Allianz,130359,Tech
+47,Microsoft,125843,Tech
+48,Marathon Petroleum,124813,Unknown
+49,Huawei Investment & Holding,124316,Unknown
+50,China Railway Engineering Group,123324,Unknown
+51,Kroger,122286,Unknown
+52,SAIC Motor,122071,Unknown
+53,Fannie Mae,120304,Unknown
+54,China Railway Construction,120302,Unknown
+55,Gazprom,118009,Unknown
+56,BMW Group,116638,Unknown
+57,Lukoil,114621,Unknown
+58,Bank of America,113589,Unknown
+59,Home Depot,110225,Unknown
+60,Japan Post Holdings,109915,Unknown
+61,Phillips 66,109559,Unknown
+62,Nippon Telegraph and Telephone,109448,Unknown
+63,Comcast,108942,Unknown
+64,China National Offshore Oil,108687,Unknown
+65,China Mobile Communications,108527,Unknown
+66,Assicurazioni Generali,105921,Unknown
+67,Crédit Agricole,104972,Unknown
+68,Anthem,104213,Unknown
+69,Wells Fargo,103915,Unknown
+70,Citigroup,103449,Unknown
+71,Valero Energy,102729,Unknown
+72,Itochu,100522,Unknown
+73,HSBC Holdings,98673,Unknown
+74,Siemens,97937,Tech
+75,Pacific Construction Group,97536,Professional Services
+76,Rosneft Oil,96313,Oil
+77,General Electric,95214,Tech
+78,China Communications Construction,95096,Unknown
+79,China Resources,94758,Unknown
+80,Prudential,93736,Unknown
+81,Dell Technologies,92154,Tech
+82,Nestlé,92107,Unknown
+83,Nissan Motor,90863,Tech
+84,Hyundai Motor,90740,Tech
+85,Legal & General Group,90615,Unknown
+86,Deutsche Telekom,90135,Unknown
+87,Enel,89907,Unknown
+88,Aviva,89647,Unknown
+89,China FAW Group,89417,Professional Services
+90,China Post Group,89347,Professional Services
+91,Amer International Group,88862,Professional Services
+92,China Minmetals,88357,Unknown
+93,Banco Santander,88257,Unknown
+94,SoftBank Group,87440,Professional Services
+95,Bosch Group,86990,Tech
+96,Reliance Industries,86270,Unknown
+97,SK Holdings,86163,Unknown
+98,Carrefour,85905,Unknown
+99,BNP Paribas,85058,Unknown
+100,Dongfeng Motor,84049,Unknown
+101,Peugeot,83643,Unknown
+102,JD.com,83505,Unknown
+103,Tesco,82700,Unknown
+104,Johnson & Johnson,82059,Unknown
+105,China Southern Power Grid,81978,Unknown
+106,Hitachi,80639,Unknown
+107,Hengli Group,80588,Unknown
+108,China Energy Investment,80498,Unknown
+109,Sinochem Group,80376,Unknown
+110,Electricité de France,80278,Unknown
+111,China Baowu Steel Group,79932,Unknown
+112,People's Insurance Co. of China,79788,Unknown
+113,ENI,79513,Unknown
+114,State Farm Insurance,79395,Unknown
+115,AEON,78930,Unknown
+116,Airbus,78883,Unknown
+117,Target,78112,Unknown
+118,International Business Machines,77147,Unknown
+119,Raytheon Technologies,77046,Unknown
+120,Petrobras,76589,Unknown
+121,Boeing,76559,Unknown
+122,Sony,75972,Unknown
+123,ENEOS Holdings,75897,Unknown
+124,Aegon,75344,Unknown
+125,Freddie Mac,75125,Unknown
+126,CITIC Group,75115,Unknown
+127,Centene,74639,Unknown
+128,Royal Ahold Delhaize,74162,Unknown
+129,UPS,74094,Unknown
+130,Nippon Life Insurance,74048,Unknown
+131,Uniper,73652,Unknown
+132,Alibaba,73166,Tech
+133,Pemex,72820,Unknown
+134,Beijing Automotive Group,72554,Unknown
+135,Munich Re Group,72537,Unknown
+136,COFCO,72149,Unknown
+137,Lowe's,72148,Unknown
+138,Intel,71965,Unknown
+139,Zurich Insurance Group,71792,Unknown
+140,PTT,71502,Unknown
+141,U.S. Postal Service,71154,Unknown
+142,Deutsche Post DHL Group,70895,Unknown
+143,BASF,70723,Unknown
+144,Facebook,70697,Unknown
+145,Sinopharm,70690,Unknown
+146,ArcelorMittal,70615,Unknown
+147,Country Garden Holdings,70335,Unknown
+148,FedEx,69693,Unknown
+149,MetLife,69620,Unknown
+150,Walt Disney,69570,Unknown
+151,Indian Oil,69246,Unknown
+152,China Evergrande Group,69127,Unknown
+153,Panasonic,68897,Unknown
+154,China North Industries Group,68714,Unknown
+155,Brookfield Asset Management,67826,Unknown
+156,Procter & Gamble,67684,Unknown
+157,PowerChina,67371,Unknown
+158,China Telecommunications,67365,Unknown
+159,Engie,67220,Unknown
+160,PepsiCo,67161,Unknown
+161,Mitsubishi UFJ Financial Group,67135,Unknown
+162,Bank of Communications,66564,Unknown
+163,Aviation Industry Corp. of China,65909,Unknown
+164,ChemChina,65767,Unknown
+165,Dai-ichi Life Holdings,65434,Unknown
+166,Humana,64888,Unknown
+167,Prudential Financial,64807,Unknown
+168,Archer Daniels Midland,64656,Unknown
+169,Equinor,64357,Unknown
+170,Lloyds Banking Group,64297,Unknown
+171,Roche Group,63434,Unknown
+172,Mitsui,63327,Unknown
+173,Marubeni,62799,Unknown
+174,Albertsons,62455,Unknown
+175,Renault,62160,Unknown
+176,Greenland Holding Group,61965,Unknown
+177,Toyota Tsusho,61570,Unknown
+178,Seven & I Holdings,60952,Unknown
+179,Sysco,60114,Unknown
+180,Christian Dior,60071,Unknown
+181,Manulife Financial,59969,Unknown
+182,Lockheed Martin,59812,Unknown
+183,Alimentation Couche-Tard,59118,Unknown
+184,HP,58756,Unknown
+185,Unilever,58179,Unknown
+186,Petronas,58027,Unknown
+187,China National Building Material Group,57626,Unknown
+188,Tokyo Electric Power,57407,Unknown
+189,China Merchants Bank,57252,Unknown
+190,Oil & Natural Gas,57171,Unknown
+191,China Poly Group,57147,Unknown
+192,Société Générale,56852,Unknown
+193,China Pacific Insurance (Group),55800,Unknown
+194,POSCO,55592,Unknown
+195,Vinci,54788,Unknown
+196,Auchan Holding,54672,Unknown
+197,Tencent Holdings,54613,Unknown
+198,Nippon Steel Corporation,54465,Unknown
+199,CNP Assurances,54365,Unknown
+200,Energy Transfer,,Unknown
